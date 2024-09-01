@@ -37,4 +37,47 @@ The main visualizations included in the Power BI report are:
 2. **Gender and Age Distribution**: Visualization of medal distribution considering the gender and age of the athletes.
 ![Captura de Tela (11)](https://github.com/user-attachments/assets/b2e0186d-9bcf-4a4d-a2f2-0dcb3380831b)
 
+   
+## Features
+
+- **Dynamic Filters**: Users can filter the data by country, gender, and age.
+- **Interactivity**: Interactive charts that allow a detailed analysis of the information.
+- **Data Export**: Ability to export visualizations and data to other formats.
+
+## Prerequisites
+
+To view the Power BI report, you will need:
+
+- [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+- The `Olympics.pbix` file included in this repository.
+
+## Installation
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/olympics-2024-powerbi.git
+   ```
+
+2. Open the `Olympics.pbix` file using Power BI Desktop.
+
+## How to Use
+
+1. After opening the file in Power BI, navigate through the different dashboards to explore the visualizations.
+2. Use the available filters to customize the analysis according to your interests.
+3. To export a specific visualization, use the Power BI export options.
+
+## Contributions
+
+I'm just curious trying to use power BI. If you have any suggestions on how to improve this project, feel free to do by:
+
+1. Fork this repository.
+2. Create a new branch with your feature or bug fix: `git checkout -b my-feature`.
+3. Commit your changes: `git commit -m 'Add my new feature'`.
+4. Push to the main branch: `git push origin my-feature`.
+5. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
