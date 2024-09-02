@@ -13,7 +13,6 @@ This repository contains a data analysis and visualization project on the 2024 O
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [How to Use](#how-to-use)
 - [Contributions](#contributions)
 - [License](#license)
 
@@ -37,10 +36,8 @@ The main visualizations included in the Power BI report are:
 2. **Gender and Age Distribution**: Visualization of medal distribution considering the gender and age of the athletes.
 ![Captura de Tela (11)](https://github.com/user-attachments/assets/b2e0186d-9bcf-4a4d-a2f2-0dcb3380831b)
 
-   
 ## Features
 
-- **Dynamic Filters**: Users can filter the data by country, gender, and age.
 - **Interactivity**: Interactive charts that allow a detailed analysis of the information.
 - **Data Export**: Ability to export visualizations and data to other formats.
 
@@ -69,7 +66,7 @@ To view the Power BI report, you will need:
 
 ## Contributions
 
-I'm just curious trying to use power BI. If you have any suggestions on how to improve this project, feel free to do by:
+I'm exploring Power BI out of curiosity. If you have any suggestions for improving this project, feel free to contribute by:
 
 1. Fork this repository.
 2. Create a new branch with your feature or bug fix: `git checkout -b my-feature`.
